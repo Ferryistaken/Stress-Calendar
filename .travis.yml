@@ -8,4 +8,3 @@ env:
   - AUTH_SHARED_SECRET=auth-shared-secret
 script:
   - yarn lint
-  - yarn test
